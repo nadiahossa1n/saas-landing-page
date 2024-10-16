@@ -6,7 +6,7 @@ import celectialLogo from "@/assets/logo-celestial.png";
 import pulseLogo from "@/assets/logo-pulse.png";
 import apexLogo from "@/assets/logo-apex.png";
 import Image from "next/image";
-import { easeInOut, motion } from "framer-motion";
+import { motion } from "framer-motion";
 
 export const LogoTicker = () => {
   return (
